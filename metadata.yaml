@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '7887'
     url: http://www.gutenberg.org/2009/agents/7887
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18229#Transactions-of-the-American-Society-of-Civil-Engineers-Vol.-LXVIII-Sept.-1910Paper-No.-1150
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2006-04-22'
 gutenberg_type: Text
