@@ -1,0 +1,31 @@
+_repo: Transactions-of-the-American-Society-of-Civil-Engineers-Vol.-LXVIII-Sept.-1910Paper-No.-1150_18229
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Raymond, Charles W.
+    gutenberg_agent_id: '7887'
+    url: http://www.gutenberg.org/2009/agents/7887
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2006-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18229'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroad tunnels -- Design and construction'
+- !lcc 'TA'
+- !lcsh 'Civil engineering -- Periodicals'
+title: 'Transactions of the American Society of Civil Engineers, Vol. LXVIII, Sept.
+  1910
+
+  The New York Tunnel Extension of the Pennsylvania Railroad.
+
+  Paper No. 1150'
+url: http://www.gutenberg.org/ebooks/18229
